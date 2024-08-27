@@ -1,0 +1,9 @@
+Firebase information
+Pseudo de l'application
+
+*parfum_shop
+firebase hosting .webp
+parfumshop-8864d-a8201
+
+Pour gérer les accès d'autres utilisateurs à firebase pour collaborer
+https://console.cloud.google.com/iam-admin/serviceaccounts/create?authuser=0&hl=fr&project=parfumshop-8864d
