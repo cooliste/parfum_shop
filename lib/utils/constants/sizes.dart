@@ -27,14 +27,14 @@ static const double fontSizeLg = 18.0;
   static const double buttonElevation= 4.0;
 
   // AppBar height
-  static const double appBarHeight = 56.0;
+  static const double appBarHeight = 52.0;
 
  // Image sizes
   static const double imageThumbSize = 80.0;
 
   // Default spacing between sections
-  static const double defaultSpace = 24.0;
-  static const double spaceBtwItems = 16.0;
+  static const double defaultSpace = 10.0;
+  static const double spaceBtwItems = 14.0;
   static const double spaceBtwSections = 32.0;
 
   // Border radius
@@ -62,7 +62,7 @@ static const double fontSizeLg = 18.0;
   static const double cardElevation = 6.0;
 
   // Image carousel height
-  static const double imagecarouselHeight = 200.0;
+  static const double imageCarouselHeight = 200.0;
 
   // Loading indicator size
   static const double loadingIndicatorSize = 36.0;
